@@ -9,7 +9,7 @@ interface PageContentProps {
     songs: Song[]
     playlists: Playlist[]
 }
-
+//hola 
 const PageContent: React.FC<PageContentProps> = ({
     songs,
     playlists
