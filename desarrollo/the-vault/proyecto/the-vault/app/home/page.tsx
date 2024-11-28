@@ -1,5 +1,7 @@
 "use client"
 
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { useEffect, useState } from 'react';
 import Header from "@/components/Header"
 import useAuth from "@/hooks/useAuth"

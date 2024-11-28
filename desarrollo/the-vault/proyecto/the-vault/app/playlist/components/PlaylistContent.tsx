@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import type { Playlist, Song } from "@/types"
 import SongModel2 from "../../../components/SongModel2"

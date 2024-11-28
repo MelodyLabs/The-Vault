@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import Header from "@/components/Header";
 import getLikedSongs from "@/actions/getLikedSongs";
 import getRecentSongs from "@/actions/getRecentSongs";

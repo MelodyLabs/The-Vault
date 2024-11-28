@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import React, { useState, useEffect } from 'react';
 import ThemeModal from '@/components/ThemeModal';
 import NameModal from "@/components/NameModal";

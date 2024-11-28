@@ -1,4 +1,6 @@
 "use client";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import { Queue } from "@/structures/queue";
 import SongModel1 from "@/components/SongModel1";

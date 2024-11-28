@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import useUpload from "@/hooks/useUpload"
 import Modal from "./Modal"

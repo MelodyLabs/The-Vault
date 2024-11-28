@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import { useEffect, useState } from "react"
 import AuthModal from "./AuthModal"

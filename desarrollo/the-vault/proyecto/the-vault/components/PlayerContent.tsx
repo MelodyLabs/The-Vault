@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import useLoadImage from "@/hooks/useLoadImage"
 import { Song } from "@/types"

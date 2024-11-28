@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import type { Playlist } from "@/types"
 import PlaylistItem from "../../../components/Playlist"

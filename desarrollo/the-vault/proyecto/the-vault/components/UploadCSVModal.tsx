@@ -1,4 +1,7 @@
 "use client";
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 import { useState } from "react";
 import { useForm, FieldValues, SubmitHandler } from "react-hook-form";

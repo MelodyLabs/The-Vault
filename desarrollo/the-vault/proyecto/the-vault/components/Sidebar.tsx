@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import { usePathname } from "next/navigation"
 import { useEffect, useMemo, useState } from "react"

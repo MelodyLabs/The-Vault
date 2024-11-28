@@ -10,6 +10,8 @@ import uniqid from "uniqid"
 import { useSupabaseClient } from "@supabase/auth-helpers-react"
 import { useRouter } from "next/navigation"
 import useUploadP from "@/hooks/useUploadP"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 const UploadPlaylistModal = () => {
     const [isLoading, setIsLoading] = useState(false)

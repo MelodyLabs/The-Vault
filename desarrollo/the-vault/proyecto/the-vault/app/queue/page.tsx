@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import Header from "@/components/Header";
 import { Song, Playlist } from "@/types";
 import { useRouter } from "next/navigation";

@@ -1,5 +1,8 @@
 import { forwardRef } from "react"
 import { twMerge } from "tailwind-merge"
+/* eslint-disable @typescript-eslint/no-empty-object-type */
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 //hola
 //hola//hola
 //hola

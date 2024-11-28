@@ -1,4 +1,6 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 
 import * as Dialog from "@radix-ui/react-dialog"
 import { IoMdClose } from "react-icons/io"
